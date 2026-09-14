@@ -1,0 +1,2 @@
+roc_auc,f1_score,precision_score,recall_score,accuracy_value,classification_threshold
+0.9993793445878848,0.9620253164556962,0.926829268292683,1.0,0.9791666666666666,0.3393333333333333
